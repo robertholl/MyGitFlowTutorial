@@ -1,6 +1,6 @@
 # My Git and Git Flow Tutorial
 
-# Version .1
+# Version .1.1
 
 ## Background
 
@@ -8,6 +8,8 @@ I have been dabbling off and on for several months using git and see the value, 
 
 ## Resources
 Git Flow https://github.com/nvie/gitflow By Vincent Driessen
+
 A successful Git branching model http://nvie.com/posts/a-successful-git-branching-model/ By Vincent Driessen
+
 Markdown: Syntax https://daringfireball.net/projects/markdown/syntax By John Grauber
 
